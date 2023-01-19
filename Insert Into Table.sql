@@ -1,6 +1,10 @@
 INSERT INTO `company_profile` VALUES 
 (902001,'ABC','Residential plumbing solutionss','Plumbing','www.abc.ca'),
+<<<<<<< HEAD
 (902002,'XYZ','Residential plumbing solutionssss','Plumbing','www.xyz.ca'),
+=======
+(902002,'XYZ','Residential plumbing solutions','Plumbing','www.xyz.ca'),
+>>>>>>> f6a48e8f905dc64953de9e2fa5c01fec783bae5e
 (902003,'RBC','Provides commercial laundery solutions','Laundery','www.rbc.ca'),
 (902004,'SCB','Provides laundery services','Laundery','www.scb.ca'),
 (902005,'CHK','Provides house cleaning services','Housekeeping','www.chk.ca'),
