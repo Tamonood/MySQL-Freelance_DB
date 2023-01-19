@@ -4,7 +4,7 @@ SELECT Rew.job_id, Rew.rating, Rew.comments FROM reviews Rew
 LEFT JOIN job_status JS ON JS.job_id = Rew.job_id
 WHERE in_progress = 'No'
 AND 'like' > 'dislike'
-order by rating DESC;
+order by rating;
 
 /*
 Name : Freelancer having experience or Education
