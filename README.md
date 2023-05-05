@@ -1,3 +1,4 @@
+# Group Project - Thanks to the team at CBU for help
 # Database System on Part-Time Freelance
 The purpose of this project is to design a database system that equips employees/freelancers and employers to fill a part-time freelancing job vacancy.
 # ERD Snapshot
